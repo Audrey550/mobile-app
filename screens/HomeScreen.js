@@ -11,7 +11,7 @@ import zeldafigurine from "../images/zeldafigurine.png";
 import { NavigationContainer } from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
 
-const categoryNames = {
+const categoryNames = { //Hello
   "": "Alle categorieën",
   "67c2e227cb5553738eb07ce9": "the sims",
   "67bf8c0e469bb8e53cb2d2e0": "the legend of zelda",
